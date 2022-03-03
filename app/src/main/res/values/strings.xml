@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HomeWorkUI</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="about_portal_text">Друзья, здесь Вы можете получить по паспорту Онлайн кредит до 15 000 сом, на электронный кошелек (Баланс/ Мегапей/ О!Деньги/ Элсом) или карту Элкарт любого банка КП, НЕ ПРИХОДЯ в офис Компании!</string>
+    <string name="about_portal_title">О портале</string>
+    <string name="open_link_elet">Открыть сайт компании: <a href="https://elet.kg">www.elet.kg</a> </string>
+    <string name="info_in_add_fragment"><![CDATA[Кредит до 15000 выдается моментально и не требует посещения офиса МФК <<Элет Капитал>>]]></string>
+    <string name="check_private_info_link"><a href="https://elet.kg">Посмотреть личные данные в анкете</a></string>
+
+    <string-array name="stringsForDistributionChannel">
+        Электронный кошелек
+        Банк
+        Distribution Channel
+        Просто так
+    </string-array>
+</resources>
